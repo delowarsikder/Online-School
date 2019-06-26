@@ -1,0 +1,20 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="header.master.cs" Inherits="all" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div style="background:#ff6a00">
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        <div>Inside in master pages</div>
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

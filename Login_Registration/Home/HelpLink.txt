@@ -1,0 +1,19 @@
+//add slider
+https://all-free-download.com/free-website-templates/web-slider.html
+//for icon
+https://www.flaticon.com/
+//for bacground 
+https://www.toptal.com/designers/subtlepatterns/
+//google font  search in google
+
+//for help site
+http://links.giveawayoftheday.com/idbscholarsforum.com
+
+//for meta tag
+https://www.metatags.org/
+
+//for minify css remove comment & extraspace
+www.minifycss,con
+
+//for add new line & back to unminify
+beatifycss.com

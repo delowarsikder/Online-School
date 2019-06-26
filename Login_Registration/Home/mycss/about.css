@@ -1,0 +1,248 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    line-height: 18px;
+    font-size: 14px;
+    color: #000;
+}
+
+.template{
+    width: 960px;
+    background:rgb(70, 54, 78);
+    margin:0 auto;
+}
+.clear{
+    overflow: hidden;
+}
+.header-nav{
+    background:goldenrod;
+/*     text-align: center; */
+    color:white;
+    /* height: 120px; */
+}
+.logo{
+    width: 500px;
+    float: left;
+    margin:3px;
+}
+.logo img{
+    float: left;
+/*     margin: 2px; */
+    width: 50px;
+    height: 50px;
+    margin-right: 5px;
+}
+.logo h2{
+    font-size: 35px;
+    margin: 5px 0px 5px 0px;
+    text-shadow: 1px 0px 1px;
+    color: rgb(19, 5, 221);
+    
+}
+.logo p{
+    
+}
+
+.social {
+    width: 230px;
+    float:right;
+}
+.social img{
+    width: 50px;
+    padding-top: 15px;
+    margin: 1px;
+    /* opacity: 0.6; */
+}
+
+.navigation{
+    background:rgb(179, 161, 179);
+    height: 40px;
+    text-align: right;
+    /* border-bottom: 2px solid; */
+}
+.navigation ul{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.navigation ul li{
+    display: block;/*show list one line*/
+    float: left;
+}
+
+
+.navigation ul li a{
+    /*remove under line*/
+    /* background: oldlace none repeat scroll 0 0; */
+    display: block;
+    background: antiquewhite none repeat scroll 0 0;
+    text-decoration: none;
+    margin: 5px 5px;
+    padding: 5px 12px;
+    font-size: 17px;
+    font-weight: bolder;
+    color:#136303f3;
+    border: 2px solid #150357;
+    border-radius: 4px;
+
+}
+/* hover for change color click cursor */
+.navigation ul li a:hover{
+    background: #3c6902;
+    color: #fff;
+    padding: 10px;
+
+}
+
+.sliderSection{
+    margin-bottom: 5px;
+    box-shadow:0px 8px 3px -3px #810d09;
+}
+
+.content{
+
+}
+
+.mainContent{
+    width: 590px;
+    background: #e2e0e9 none repeat scroll 0 0;
+    float: left;
+    margin: 0px 5px 5px 0px;
+    border: 2px solid #ff6207;
+    padding-left: 5px;
+}
+
+.aboutUs h2{
+    /* background-color: black; */
+    /* color: rgb(243, 234, 234); */
+    border-bottom: 2px solid rgb(32, 24, 16);
+    padding: 10px;
+    margin: 10px;
+}
+
+.aboutUs img{
+    float: left;
+    background: #ffff;
+    border: 1px solid rgb(70, 6, 6);
+    margin: 5px;
+    padding: 5px;
+    width: 150px;
+    height: 200px;
+}
+.mainTopic p{
+text-align: justify;
+font-size: 16px;
+line-height: 20px;
+margin: 5px;
+}
+
+.readmore{
+    display: block;
+    float:right;
+}
+.readmore a{
+    display: block;
+    margin: 6px;
+    background: rgb(26, 22, 66);
+    color: rgb(138, 10, 10);
+    padding: 8px;
+    text-decoration: none;
+    border: 2px solid burlywood;
+    border-radius: 5px;
+}
+.readmore a:hover{
+    background: #810505;
+    color: #fff;
+    padding: 10px;
+}
+
+.sidebarContent{
+    width: 340px;
+    background: wheat none repeat scroll 0 0;
+    float:right;
+    margin: 0px 0px 10px 0px;
+    border: 2px solid #029499f3;
+    padding: 5px;
+
+}
+.leastArticle h2{
+    background-color: black;
+    color: rgb(243, 234, 234);
+    border-bottom: 2px solid rgb(155, 2, 2);
+    margin-bottom: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.leastArticle ul{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    height: 150px;
+    overflow-y: auto;
+}
+
+.leastArticle ul li{
+    border-bottom: 1px dashed rgb(151, 111, 2); 
+    padding: 2px 5px 2px 5px;
+    font-size: 16px;
+
+}
+
+.leastArticle ul li:last-child
+{
+    border-bottom: 0px none rgb(151, 111, 2);
+}
+.leastArticle ul li a{
+    text-decoration: none;
+    
+}
+.leastArticle ul li a:hover{
+    
+}
+
+.sidebarTitle h2{
+    background-color: black;
+    color: rgb(243, 234, 234);
+    border-bottom: 2px solid rgb(155, 2, 2);
+    margin-bottom: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+.sidebarTitle p{
+    padding: 5px;
+}
+
+.footerSection{
+    background: rgb(8, 0, 0);
+    height: 50px;
+    text-align: center;
+}
+.footerSection p{
+    padding: 10px;
+    color: rgb(223, 206, 206);
+}
+.footerList{
+
+}
+
+.footerList ul{
+    text-align: center;
+    list-style: none;
+    margin: 0px;
+    padding: 0px;   
+    
+}
+.footerList ul li{
+    margin-top:5px;
+    display: inline-block;
+}
+.footerList ul li a{
+    /* remove under line  */
+    /* text-decoration: none; */ 
+}

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/F:/Study/TF_3.1/my/Web_Lab/ASP%20project/final_try/Login_Registration/LoginPage.aspx" hash="fffffffcdda60135" filehash="daafc0ac5d9f579f" flags="110000" assembly="App_Web_3i1ky41m" type="ASP.loginpage_aspx">
+    <filedeps>
+        <filedep name="/F:/Study/TF_3.1/my/Web_Lab/ASP%20project/final_try/Login_Registration/LoginPage.aspx" />
+        <filedep name="/F:/Study/TF_3.1/my/Web_Lab/ASP%20project/final_try/Login_Registration/LoginPage.aspx.cs" />
+    </filedeps>
+</preserve>
